@@ -1,6 +1,6 @@
 # pageCode
 分页功能样式
-
+```
 /**
  * create time: 2016-xx-xx
  * author: dongsheng
@@ -28,3 +28,4 @@
  * 方法： 
  * 	refresh： 更新分页 (总页数，当前页码)
  */
+```
