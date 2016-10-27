@@ -1,5 +1,6 @@
 # pageCode
-分页功能样式
+## 分页功能样式
+## 操控dom依赖jQuery,超级简单好用，赞
 
 [demo预览](http://donglegend.com/effects/pageCode/index.html)
 
