@@ -1,5 +1,8 @@
 # pageCode
 分页功能样式
+
+[demo预览](http://donglegend.com/effects/pageCode/index.html)
+
 ```
 /**
  * create time: 2016-xx-xx
